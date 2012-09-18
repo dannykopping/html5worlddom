@@ -1,0 +1,10 @@
+.textArea {
+    -fx-background-color: #DDDDDD;
+    color: #222222;
+    -fx-font-size: 10px;
+    -fx-text-alignment: left;
+    -fx-alignment: bottom-center;
+    -fx-hbar-policy: never;
+    -fx-vbar-policy: never;
+}
+
